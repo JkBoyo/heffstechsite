@@ -27,9 +27,9 @@ At it's most complex (like Hugo) an SSG can include premade themes that come wit
 
 I learned about this concept while studying backend dev at [boot.dev](https://boot.dev) by going in and building my own [super basic version (not for production use)](https://github.com/jkboyo/SSG) of an SSG.
 
-{{< figure src="md.jpg" alt="MD test preconversion" position="center" style="border-radius: 8px;" caption="MD test preconversion" captionPosition="left" captionStyle="color: red;" >}}
+{{< figure src="/images/md.png" alt="MD test preconversion" position="center" style="border-radius: 8px;" caption="MD test preconversion" captionPosition="left" captionStyle="color: red;" >}}
 
-{{< figure src="html.jpg" alt="Rendered HTML" position="center" style="border-radius: 8px;" caption="Rendered HTML" captionPosition="left" captionStyle="color: red;" >}}
+{{< figure src="/images/html.png" alt="Rendered HTML" position="center" style="border-radius: 8px;" caption="Rendered HTML" captionPosition="left" captionStyle="color: red;" >}}
 
 Once I had completed this project I became interested in using a fully featured SSG. Thanks to one of the great go-vangelists of our time [@wagslane](https://x.com/wagslane?mx=2) being the author of the course, Hugo was frequently mentioned as what you should use.
 
@@ -57,4 +57,4 @@ However, my increased experience with this has given me the confidence and even 
 
 Plus it has given me this place to talk about and practice writing and also track my to-do/in-process projects as well as give me some accountability so I can have people I share this with ask me about and pester me to do more with these projects instead of doom scrolling my life away.
 
-If you want to see what I am working on/help keep me accountable in this as I'm only really sharing it with friends and family for now feel free to take a look at my [Projects Page](heffstech.com/projects) to see what I'm currently attempting to work on or hoping to do in the future!
+If you want to see what I am working on/help keep me accountable in this as I'm only really sharing it with friends and family for now feel free to take a look at my [Projects Page](/projects) to see what I'm currently attempting to work on or hoping to do in the future!
