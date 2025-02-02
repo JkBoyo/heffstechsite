@@ -13,8 +13,6 @@ readingTime = false
 hideComments = false
 +++
 
-# Learning Hugo
-
 What is Hugo?
 
 I am glad you asked! Hugo is a *Static Site Generator* (*SSG*) built in the [golang](https://go.dev/) programming language.
