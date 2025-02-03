@@ -25,9 +25,9 @@ At it's most complex (like Hugo) an SSG can include premade themes that come wit
 
 I learned about this concept while studying backend dev at [boot.dev](https://boot.dev) by going in and building my own [super basic version (not for production use)](https://github.com/jkboyo/SSG) of an SSG.
 
-{{< figure src="/images/md.png" alt="MD test preconversion" position="center" style="border-radius: 8px;" caption="MD test preconversion" captionPosition="left" captionStyle="color: red;" >}}
+{{< figure class="left" src="md.png" alt="MD test preconversion" position="center" style="border-radius: 8px;" caption="MD test preconversion" captionPosition="center" captionStyle="color: darkblue; border-radius: 8px;" >}}
 
-{{< figure src="/images/html.png" alt="Rendered HTML" position="center" style="border-radius: 8px;" caption="Rendered HTML" captionPosition="left" captionStyle="color: red;" >}}
+{{< figure class="left" src="html.png" alt="Rendered HTML" position="center" style="border-radius: 8px;" caption="Rendered HTML" captionPosition="center" captionStyle="color: darkblue; border-radius: 8px;" >}}
 
 Once I had completed this project I became interested in using a fully featured SSG. Thanks to one of the great go-vangelists of our time [@wagslane](https://x.com/wagslane?mx=2) being the author of the course, Hugo was frequently mentioned as what you should use.
 
